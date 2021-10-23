@@ -1,0 +1,19 @@
+{
+  "name": "sendinghttprequest-react",
+  "version": "1.0.0",
+  "description": "learn react.js -udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizki10eka/SendingHttpRequest-React.js.git"
+  },
+  "author": "rizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizki10eka/SendingHttpRequest-React.js/issues"
+  },
+  "homepage": "https://github.com/rizki10eka/SendingHttpRequest-React.js#readme"
+}
